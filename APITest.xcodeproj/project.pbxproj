@@ -17,6 +17,7 @@
 		0ADEED942521FBE8007F1A33 /* APIManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ADEED932521FBE8007F1A33 /* APIManager.swift */; };
 		0AFD137A25220B6E00545CEA /* APIData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AFD137925220B6E00545CEA /* APIData.swift */; };
 		0AFD137D2522110E00545CEA /* DataTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AFD137C2522110E00545CEA /* DataTableViewCell.swift */; };
+		0AFD138025221E3000545CEA /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 0AFD137F25221E3000545CEA /* Readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		0ADEED932521FBE8007F1A33 /* APIManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIManager.swift; sourceTree = "<group>"; };
 		0AFD137925220B6E00545CEA /* APIData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIData.swift; sourceTree = "<group>"; };
 		0AFD137C2522110E00545CEA /* DataTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataTableViewCell.swift; sourceTree = "<group>"; };
+		0AFD137F25221E3000545CEA /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,6 +50,7 @@
 		0ADEED6F2521FBC5007F1A33 = {
 			isa = PBXGroup;
 			children = (
+				0AFD137F25221E3000545CEA /* Readme.md */,
 				0ADEED7A2521FBC5007F1A33 /* APITest */,
 				0ADEED792521FBC5007F1A33 /* Products */,
 			);
@@ -138,6 +141,7 @@
 			files = (
 				0ADEED8B2521FBC6007F1A33 /* LaunchScreen.storyboard in Resources */,
 				0ADEED882521FBC6007F1A33 /* Assets.xcassets in Resources */,
+				0AFD138025221E3000545CEA /* Readme.md in Resources */,
 				0ADEED832521FBC5007F1A33 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
